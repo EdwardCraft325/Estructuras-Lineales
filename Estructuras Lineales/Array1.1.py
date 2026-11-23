@@ -1,0 +1,12 @@
+arreglo= "TecMartinez"
+subarreglo1= arreglo[1]
+subarreglo2= arreglo[2]
+subarreglo3= arreglo[3]
+subarreglo4= arreglo[4]
+subarreglo5= arreglo[5]
+subarreglo6= arreglo[6]
+subarreglo7= arreglo[7]
+subarreglo8= arreglo[8]
+subarreglo9= arreglo[9]
+subarreglo10= arreglo[10]
+print (arreglo[10])
